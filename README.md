@@ -1,7 +1,7 @@
 # Assiging-batches-to-orders-sequentially
 
 
-
+Problem Statement:
 Imagine a warehouse where the available items are stored as per different batches as indicated in the BATCH table.
 Customers can purchase multiple items in a single order as indicated in ORDERS table.
 
